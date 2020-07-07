@@ -1,3 +1,5 @@
 # hello-world
-my first repository
-Learning how to use github and make changes to files
+
+Alex
+
+working on my github skills to help in my career search.
